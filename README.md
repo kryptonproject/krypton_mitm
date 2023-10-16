@@ -11,3 +11,5 @@ sudo pip3 install scapy
 
 auth:krypton
 clan:177member, stucx team, myopecs. (thanks to them for teaching me about hacking and programming)
+
+WARNING:EDUCATIONAL PURPOSES ONLY, IF YOU USE THE SCRIPT FOR THE BAD THING.. IM GOING TO FIND YOU!!!
