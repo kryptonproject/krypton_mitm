@@ -22,6 +22,7 @@ git clone https://github.com/kryptonproject/krypton_mitm
 cd krypton_mitm
 
 sudo python3 krypton_mitm.py -ip_range local_ip/10
+ex:192.168.0.0/24
 
 
 
