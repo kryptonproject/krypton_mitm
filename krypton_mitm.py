@@ -77,7 +77,7 @@ def send_spoof_packets():
         time.sleep(3)
 
 def packet_sniffer(interface):
-    packets = scapy.sniff(iface = interface, store = False, prnv = process_sniffed_pkt)
+    packets = scapy.sniff(iface = interface, store = False, prn = process_sniffed_pkt)
 
 def process_sniffed_pkt(pkt):
     print("Menulis ke fail pcap. Tekan ctrl + c untuk keluar.")
